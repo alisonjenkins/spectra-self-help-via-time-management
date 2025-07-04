@@ -40,3 +40,14 @@ to worry that you are going to be late for something or should be doing somethin
 For setting these timers I recommend making use of Google Assistant on your phone if you are on Android or Siri if you use an iPhone or a Mac as it is quick and easy to tell them set timers.
 
 Time boxing like above helps you to ensure that you aren't burning yourself out by only working all the time. Never having time to rest and do your hobbies. This also allows you to combat your internal voices that say you must be doing something else when you are working or if you are doing your hobbies or resting as you have allocated time to do both.
+
+## Further reading
+
+As mentioned I read quite a few books on time management to learn these things. These are my favourites that I recommend you read if you want to learn more:
+
+* [Pomodoro Technique Illustrated](https://pragprog.com/titles/snfocus/pomodoro-technique-illustrated/)
+* [Pomodoro Technique Illustrated - Audio Book](https://pragprog.com/titles/a-snfocus/pomodoro-technique-illustrated/)
+* [Eat that Frog](https://www.amazon.co.uk/Eat-That-Frog-Important-Things/dp/1444765426)
+* [Eat that Frog - Audio Book](https://www.audible.co.uk/pd/Eat-That-Frog-Audiobook/B08NN412W9)
+* [Getting Things Done: The Art of Stress-free Productivity](https://www.amazon.co.uk/Getting-Things-Done-Stress-free-Productivity/dp/0349408947)
+* [Getting Things Done: The Art of Stress-Free Productivity - Audio Book](https://www.audible.co.uk/pd/Getting-Things-Done-Audiobook/B0DSJYWFD2)
