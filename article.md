@@ -41,6 +41,10 @@ For setting these timers I recommend making use of Google Assistant on your phon
 
 Time boxing like above helps you to ensure that you aren't burning yourself out by only working all the time. Never having time to rest and do your hobbies. This also allows you to combat your internal voices that say you must be doing something else when you are working or if you are doing your hobbies or resting as you have allocated time to do both.
 
+Another important tip if you are prone to procrastination is to lie to yourself. By this I mean if you are procrastinating on a task tell yourself you are just going to do a couple of minutes or just write one sentence if it is a report. By doing this you can reduce the resistance you have on starting the task and once you have started you can then continue to lie to yourself repeatedly to keep going by just saying... just one more sentence and like when you do this when you are playing a game or doing something else you enjoy you will find that time flies and you end up realising that hours have passed and you have done more than you intended to do.
+
+* Insert outro here.
+
 ## Further reading
 
 As mentioned I read quite a few books on time management to learn these things. These are my favourites that I recommend you read if you want to learn more:
